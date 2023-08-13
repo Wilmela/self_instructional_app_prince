@@ -181,7 +181,7 @@ export default [
   },
 
   {
-    quiz: "Fuel Engine",
+    quiz: "Fuel System",
     questions: [
       {
         question:

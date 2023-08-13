@@ -91,7 +91,7 @@ const Player = () => {
     }
   };
 
-  const iconColor = "#000";
+  const iconColor = "#6C62F8";
   return (
     <SafeAreaView
       className="flex-1 px-4"

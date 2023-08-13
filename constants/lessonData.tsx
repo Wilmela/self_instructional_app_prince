@@ -1,6 +1,5 @@
 import React from "react";
 import {
-  ad,
   fd1,
   fd2,
   fd3,
@@ -352,9 +351,9 @@ export default [
     ),
   },
 
-  // Fuel Engine
+  // Fuel System
   {
-    topic: "Fuel Engine",
+    topic: "Fuel System",
     bgImg: fecover,
     content: () => (
       <>
@@ -1212,7 +1211,7 @@ export default [
             Beads: ultra-string steel coated rubber is called the beads and
             forms an air tight seal between the tyre and the wheel rim.
           </Content>
-          <ContentImg url={w3} />
+          <ContentImg url={w3} mv={-90}/>
           <SubHeadingText2 text="TYRE SIZES" />
           <Content>
             The tyre size and make are always marked on the sides of the casing.
@@ -1250,7 +1249,7 @@ export default [
             the treads since the central portion of the tread does not come in
             contact with the road as shown below.
           </Content>
-          <ContentImg url={w4} mv={-30} />
+          <ContentImg url={w4} mv={-20} />
           <Content>
             {"\n"}
             The low pressure causes excessive flexing of the side walls which

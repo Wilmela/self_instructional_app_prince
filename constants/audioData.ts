@@ -12,7 +12,7 @@ export default [
     uri: require("../assets/audio/MT.mp3"),
   },
   {
-    title: "Fuel Engine (S.I Engine)",
+    title: "Fuel System (S.I Engine)",
     uri: require("../assets/audio/FS.mp3"),
   },
   {

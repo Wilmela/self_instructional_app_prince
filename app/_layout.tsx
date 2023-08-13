@@ -118,3 +118,5 @@ function RootLayoutNav() {
     </ThemeProvider>
   );
 }
+
+// eas build -p android --profile preview

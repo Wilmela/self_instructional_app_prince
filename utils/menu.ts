@@ -5,7 +5,7 @@ export const menu = [
     photo: mtcover,
   },
   {
-    title: "Fuel Engine",
+    title: "Fuel System",
     photo: fecover,
   },
   {
